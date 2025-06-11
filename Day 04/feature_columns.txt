@@ -1,0 +1,10 @@
+flow_rate
+pressure
+temperature_C
+sensor_id_S1
+sensor_id_S2
+sensor_id_S3
+sensor_id_S4
+sensor_id_S5
+pump_status_No
+pump_status_Yes
